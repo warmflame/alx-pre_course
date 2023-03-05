@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "ALX"
-^C
-
-:q
-d^D
-dddddc
+echo "ALX School is so cool!"
